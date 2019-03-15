@@ -1,0 +1,28 @@
+{
+  "states": [
+    "intent_deny",
+    "intent_goodbye",
+    "intent_greet",
+    "intent_hours",
+    "intent_joke",
+    "intent_name",
+    "intent_thanks",
+    "entity_name",
+    "entity_email",
+    "slot_email_0",
+    "slot_name_0",
+    "prev_action_listen",
+    "prev_action_restart",
+    "prev_action_default_fallback",
+    "prev_action_deactivate_form",
+    "prev_action_revert_fallback_events",
+    "prev_action_default_ask_affirmation",
+    "prev_action_default_ask_rephrase",
+    "prev_utter_name",
+    "prev_utter_thanks",
+    "prev_utter_greet",
+    "prev_utter_goodbye",
+    "prev_action_joke",
+    "prev_action_get_hours"
+  ]
+}
