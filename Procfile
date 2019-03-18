@@ -1,2 +1,2 @@
 action:python3 -m rasa_core_sdk.endpoint --actions actions
-http:python3 -m rasa_core.run --enable_api -d models/current/dialogue -u models/current/nlu  --endpoints endpoints.yml -o out.log
+web:python3 -m rasa_core.run --enable_api -d models/current/dialogue -u models/current/nlu  --endpoints endpoints.yml -o out.log
